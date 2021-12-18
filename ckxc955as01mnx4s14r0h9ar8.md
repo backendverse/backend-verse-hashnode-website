@@ -2,6 +2,8 @@
 
 The following is the Go version of the Hello World program.
 
+Go always begins the execution of the application with the code found in the `main()` function of the `main` package.
+
 ```go
 package main
 
